@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <body>
+        <!--
+        <outline text="GitHub">
+            <outline title="Private Feed for SnO2WMaN" text="Private Feed for SnO2WMaN" xmlUrl="https://github.com/SnO2WMaN.private.atom?token=ADTUDGAE4J3J6RMNP5UZ6WWANF734" htmlUrl="https://github.com/SnO2WMaN"></outline>
+        </outline>
+        <outline text="Zenn">
+            <outline title="SnO2WMaNさんのフィード" text="SnO2WMaNさんのフィード" xmlUrl="https://zenn.dev/sno2wman/feed" htmlUrl="https://zenn.dev/sno2wman"></outline>
+        </outline>
+        <outline text="Reddit">
+            <outline title="Self-Hosted Alternatives to Popular Services" text="Self-Hosted Alternatives to Popular Services" xmlUrl="https://www.reddit.com/r/selfhosted.rss" htmlUrl="https://www.reddit.com/r/selfhosted"></outline>
+        </outline>
+        -->
+        <outline text="Blog">
+            <outline title="nomolkのブログ" text="nomolkのブログ" xmlUrl="https://nomolk.hatenablog.com/feed" htmlUrl="https://nomolk.hatenablog.com/"></outline>
+            <outline title="セミになっちゃた" text="セミになっちゃた" xmlUrl="https://xcloche.hateblo.jp/feed" htmlUrl="https://xcloche.hateblo.jp/"></outline>
+            <outline title="セラミックロケッツ！" text="セラミックロケッツ！" xmlUrl="https://cr.hatenablog.com/feed" htmlUrl="https://cr.hatenablog.com/"></outline>
+            <outline title="ヲチモノ" text="ヲチモノ" xmlUrl="https://watchmono.com/?xml" htmlUrl="https://watchmono.com/?xml"></outline>
+            <outline title="論理学FAQのブログ" text="論理学FAQのブログ" xmlUrl="https://takuro-logic.hatenablog.com/feed" htmlUrl="https://takuro-logic.hatenablog.com/"></outline>
+            <outline title="重力に縋るな" text="重力に縋るな" xmlUrl="https://sksat.hatenablog.com/feed" htmlUrl="https://sksat.hatenablog.com/"></outline>
+            <outline title="West Gate Laboratory" text="West Gate Laboratory" xmlUrl="https://westgate-lab.hatenablog.com/feed" htmlUrl="https://westgate-lab.hatenablog.com/"></outline>
+            <outline title="κeenのHappy Hacκing Blog" text="κeenのHappy Hacκing Blog" xmlUrl="https://keens.github.io/index.xml" htmlUrl="https://KeenS.github.io/"></outline>
+            <outline title="あっきぃ日誌" text="あっきぃ日誌" xmlUrl="https://akkiesoft.hatenablog.jp/feed" htmlUrl="https://akkiesoft.hatenablog.jp/"></outline>
+            <outline title="あまねけ！" text="あまねけ！" xmlUrl="https://ama.ne.jp/feeds/all.atom.xml" htmlUrl="https://ama.ne.jp/"></outline>
+            <outline title="なまあたたかくておいしい" text="なまあたたかくておいしい" xmlUrl="https://www.haxibami.net/rss/feed.xml" htmlUrl="https://www.haxibami.net"></outline>
+            <outline title="TojoQK" text="TojoQK" xmlUrl="https://www.tojo.tokyo/feed.xml" htmlUrl="https://www.tojo.tokyo/www.tojo.tokyo"></outline>
+            <outline title="The Cyber Flamingo" text="The Cyber Flamingo" xmlUrl="https://www.cyberflamingo.net/index.xml" htmlUrl="https://www.cyberflamingo.net/"></outline>
+            <outline title="blog.jxck.io" text="blog.jxck.io" xmlUrl="https://blog.jxck.io/feeds/atom.xml" htmlUrl="https://blog.jxck.io/"></outline>
+            <outline title="Write and Run" text="Write and Run" xmlUrl="https://diary.hatenablog.jp/feed" htmlUrl="https://diary.hatenablog.jp/"></outline>
+            <outline title="Xe&#39;s Blog" text="Xe&#39;s Blog" xmlUrl="https://christine.website/blog.atom" htmlUrl="https://christine.website/blog"></outline>
+            <outline title="空気録学電子版【公式】 - Medium" xmlUrl="https://medium.com/feed/chinachu" htmlUrl="https://medium.com/chinachu?source=rss----e2df5bbdba5a---4" />
+            <outline title="買ってから考える" xmlUrl="https://parka.hatenablog.com/feed" htmlUrl="https://parka.hatenablog.com/" />
+            <outline title="節電で死んだネオンサイン" xmlUrl="https://ajisimidaikon.hatenablog.jp/feed" htmlUrl="https://ajisimidaikon.hatenablog.jp/" />
+            <outline text="r7kamura.com" xmlUrl="https://r7kamura.com/feed.xml" htmlUrl="https://r7kamura.com/" />
+            <outline text="まめめも" xmlUrl="https://mametter.hatenablog.com/feed" htmlUrl="https://mametter.hatenablog.com/" />
+            <outline text="YAMDAS現更新履歴" xmlUrl="https://yamdas.hatenablog.com/feed" htmlUrl="https://yamdas.hatenablog.com/" />
+            <outline text="本しゃぶり" xmlUrl="https://honeshabri.hatenablog.com/feed" htmlUrl="https://honeshabri.hatenablog.com/" />
+            <outline text="obakeweb" xmlUrl="https://obakeweb.hatenablog.com/feed" htmlUrl="https://obakeweb.hatenablog.com/" />
+            <outline text="LWのサイゼリヤ" xmlUrl="https://saize-lw.hatenablog.com/feed" htmlUrl="https://saize-lw.hatenablog.com/" />
+            <outline text="Asinus's blog" xmlUrl="https://incognito0.hatenablog.com//feed" htmlUrl="https://incognito0.hatenablog.com//" />
+        </outline>
+        <outline text="TechBlog">
+            <outline title="pixiv inside" text="pixiv inside" xmlUrl="https://inside.pixiv.blog/feed" htmlUrl="https://inside.pixiv.blog/"></outline>
+            <outline title="CADDi Tech Blog" text="CADDi Tech Blog" xmlUrl="https://caddi.tech/feed" htmlUrl="https://caddi.tech"></outline>
+            <outline title="メルカリエンジニアリングブログ" text="メルカリエンジニアリングブログ" xmlUrl="https://engineering.mercari.com/blog/feed.xml.xml" htmlUrl="https://engineering.mercari.com/blog/feed.xml"></outline>
+            <outline title="Yahoo! JAPAN Tech Blog" text="Yahoo! JAPAN Tech Blog" xmlUrl="https://techblog.yahoo.co.jp/index.xml" htmlUrl="https://techblog.yahoo.co.jp/"></outline>
+            <outline text="Retty Tech Blog" xmlUrl="https://engineer.retty.me/feed" htmlUrl="https://engineer.retty.me/"></outline>
+        </outline>
+        <outline text="News(Security)">
+            <outline text="独立行政法人情報処理推進機構（IPA）新着情報RSS" xmlUrl="https://www.ipa.go.jp/about/newsonly-rss.rdf" htmlUrl="http://www.ipa.go.jp/about/index.html" />
+            <outline text="JPCERT/CC RSS Feed" xmlUrl="https://www.jpcert.or.jp/rss/jpcert.rdf" htmlUrl="http://www.jpcert.or.jp/" />
+            <outline text="JVNRSS Feed - Update Entry" xmlUrl="https://jvn.jp/rss/jvn.rdf" htmlUrl="http://jvn.jp/" />
+        </outline>
+        <outline text="News(Software)">
+            <outline text="OSDN Magazine" xmlUrl="https://mag.osdn.jp/rss" htmlUrl="https://mag.osdn.jp/" />
+            <outline text="Publickey" xmlUrl="https://www.publickey1.jp/atom.xml" htmlUrl="https://www.publickey1.jp/" />
+            <outline text="JSer.info" xmlUrl="https://jser.info/rss/" htmlUrl="https://jser.info/"></outline>
+        </outline>
+    </body>
+</opml>
